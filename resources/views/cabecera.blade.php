@@ -66,7 +66,7 @@
         </div>
         <div class="seleccionComun">
             <img src="{{ asset('img/zapatos.png') }}" alt="zapatos"> <br>
-            <p>Zapatos</p>
+            <p>Calzado</p>
         </div>
     </nav>
             @yield('contenido')

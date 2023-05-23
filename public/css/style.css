@@ -458,6 +458,11 @@ main{
     text-shadow: 0 0 5px #31ff02;
 
 }
+.productos:hover .nombreProd{
+    color: #3e3e3e;
+    font-size: 16px;
+
+}
 
 .nombreProd{
     color: #797979;
@@ -488,21 +493,9 @@ main{
     align-content: center;
     display: flex;
     margin: 1rem;
-    pading 3rem;
 }
 
-
-.piePagina {
-    background-color: #000000;
-    height: 50px;
-    display: flex;
-  }
-
-.piePagina div{
-    color:#ffffff;
-}
-
-  .paginaproduc{
+.paginaproduc{
     display: flex;
     width: 2rem;
     height: 2rem;
@@ -523,8 +516,26 @@ main{
     cursor: pointer;
     background-color: #000000;
     box-shadow: 0 0 10px #000000;
+    
 
 }
+
+.piePagina {
+    background-color: #000000;
+    height: 50px;
+    display: flex;
+    box-shadow: 0 0 5px #000000;
+    justify-content: space-between;
+    align-content: center;
+  }
+
+.piePagina div{
+    color:#ffffff;
+    margin: 1rem;
+    cursor: pointer;
+}
+
+
 /* ##################################################################################################### */
 
 

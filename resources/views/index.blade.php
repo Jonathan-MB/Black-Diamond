@@ -144,67 +144,138 @@
                 </a>
             </div>
             {{-- esto es para borrar luego  solo ejemplos de  como quedaria  --}}
+            
             <div class="productos">
                 <a class="producto" href="">
                     <img class="imgProd" src="{{asset('img/D_NQ_NP_838659-MCO49349433904_032022-O.webp')}}" alt="imagen del producto">
                     <p class="nombreProd"> chaqueta para hombre de cuero  de marca ttt </p>
-                    <p class="precioProd" > $ 10.000 cop</p>
+                    <p class="precioProd"> $ 10.000 cop</p>
                 </a>
             </div>
             <div class="productos">
                 <a class="producto" href="">
                     <img class="imgProd" src="{{asset('img/D_NQ_NP_838659-MCO49349433904_032022-O.webp')}}" alt="imagen del producto">
-                    <p class="nombreProd"> chaqueta  </p>
-                    <p class="precioProd" > $ 10.000 cop</p>
+                    <p class="nombreProd"> chaqueta para hombre de cuero  de marca ttt </p>
+                    <p class="precioProd"> $ 10.000 cop</p>
                 </a>
             </div>
             <div class="productos">
                 <a class="producto" href="">
                     <img class="imgProd" src="{{asset('img/D_NQ_NP_838659-MCO49349433904_032022-O.webp')}}" alt="imagen del producto">
-                    <p class="nombreProd"> chaqueta  </p>
-                    <p class="precioProd" > $ 10.000 cop</p>
+                    <p class="nombreProd"> chaqueta para hombre de cuero  de marca ttt </p>
+                    <p class="precioProd"> $ 10.000 cop</p>
                 </a>
             </div>
             <div class="productos">
                 <a class="producto" href="">
                     <img class="imgProd" src="{{asset('img/D_NQ_NP_838659-MCO49349433904_032022-O.webp')}}" alt="imagen del producto">
-                    <p class="nombreProd"> chaqueta  </p>
-                    <p class="precioProd" > $ 10.000 cop</p>
+                    <p class="nombreProd"> chaqueta para hombre de cuero  de marca ttt </p>
+                    <p class="precioProd"> $ 10.000 cop</p>
                 </a>
             </div>
             <div class="productos">
                 <a class="producto" href="">
                     <img class="imgProd" src="{{asset('img/D_NQ_NP_838659-MCO49349433904_032022-O.webp')}}" alt="imagen del producto">
-                    <p class="nombreProd"> chaqueta  </p>
-                    <p class="precioProd" > $ 10.000 cop</p>
+                    <p class="nombreProd"> chaqueta para hombre de cuero  de marca ttt </p>
+                    <p class="precioProd"> $ 10.000 cop</p>
                 </a>
             </div>
             <div class="productos">
                 <a class="producto" href="">
                     <img class="imgProd" src="{{asset('img/D_NQ_NP_838659-MCO49349433904_032022-O.webp')}}" alt="imagen del producto">
-                    <p class="nombreProd"> chaqueta  </p>
-                    <p class="precioProd" > $ 10.000 cop</p>
+                    <p class="nombreProd"> chaqueta para hombre de cuero  de marca ttt </p>
+                    <p class="precioProd"> $ 10.000 cop</p>
                 </a>
             </div>
             <div class="productos">
                 <a class="producto" href="">
                     <img class="imgProd" src="{{asset('img/D_NQ_NP_838659-MCO49349433904_032022-O.webp')}}" alt="imagen del producto">
-                    <p class="nombreProd"> chaqueta  </p>
-                    <p class="precioProd" > $ 10.000 cop</p>
+                    <p class="nombreProd"> chaqueta para hombre de cuero  de marca ttt </p>
+                    <p class="precioProd"> $ 10.000 cop</p>
                 </a>
             </div>
             <div class="productos">
                 <a class="producto" href="">
                     <img class="imgProd" src="{{asset('img/D_NQ_NP_838659-MCO49349433904_032022-O.webp')}}" alt="imagen del producto">
-                    <p class="nombreProd"> chaqueta  </p>
-                    <p class="precioProd" > $ 10.000 cop</p>
+                    <p class="nombreProd"> chaqueta para hombre de cuero  de marca ttt </p>
+                    <p class="precioProd"> $ 10.000 cop</p>
                 </a>
             </div>
             <div class="productos">
                 <a class="producto" href="">
                     <img class="imgProd" src="{{asset('img/D_NQ_NP_838659-MCO49349433904_032022-O.webp')}}" alt="imagen del producto">
-                    <p class="nombreProd"> chaqueta  </p>
-                    <p class="precioProd" > $ 10.000 cop</p>
+                    <p class="nombreProd"> chaqueta para hombre de cuero  de marca ttt </p>
+                    <p class="precioProd"> $ 10.000 cop</p>
+                </a>
+            </div>
+            <div class="productos">
+                <a class="producto" href="">
+                    <img class="imgProd" src="{{asset('img/D_NQ_NP_838659-MCO49349433904_032022-O.webp')}}" alt="imagen del producto">
+                    <p class="nombreProd"> chaqueta para hombre de cuero  de marca ttt </p>
+                    <p class="precioProd"> $ 10.000 cop</p>
+                </a>
+            </div>
+            <div class="productos">
+                <a class="producto" href="">
+                    <img class="imgProd" src="{{asset('img/D_NQ_NP_838659-MCO49349433904_032022-O.webp')}}" alt="imagen del producto">
+                    <p class="nombreProd"> chaqueta para hombre de cuero  de marca ttt </p>
+                    <p class="precioProd"> $ 10.000 cop</p>
+                </a>
+            </div>
+            <div class="productos">
+                <a class="producto" href="">
+                    <img class="imgProd" src="{{asset('img/D_NQ_NP_838659-MCO49349433904_032022-O.webp')}}" alt="imagen del producto">
+                    <p class="nombreProd"> chaqueta para hombre de cuero  de marca ttt </p>
+                    <p class="precioProd"> $ 10.000 cop</p>
+                </a>
+            </div>
+            <div class="productos">
+                <a class="producto" href="">
+                    <img class="imgProd" src="{{asset('img/D_NQ_NP_838659-MCO49349433904_032022-O.webp')}}" alt="imagen del producto">
+                    <p class="nombreProd"> chaqueta para hombre de cuero  de marca ttt </p>
+                    <p class="precioProd"> $ 10.000 cop</p>
+                </a>
+            </div>
+            <div class="productos">
+                <a class="producto" href="">
+                    <img class="imgProd" src="{{asset('img/D_NQ_NP_838659-MCO49349433904_032022-O.webp')}}" alt="imagen del producto">
+                    <p class="nombreProd"> chaqueta para hombre de cuero  de marca ttt </p>
+                    <p class="precioProd"> $ 10.000 cop</p>
+                </a>
+            </div>
+            <div class="productos">
+                <a class="producto" href="">
+                    <img class="imgProd" src="{{asset('img/D_NQ_NP_838659-MCO49349433904_032022-O.webp')}}" alt="imagen del producto">
+                    <p class="nombreProd"> chaqueta para hombre de cuero  de marca ttt </p>
+                    <p class="precioProd"> $ 10.000 cop</p>
+                </a>
+            </div>
+            <div class="productos">
+                <a class="producto" href="">
+                    <img class="imgProd" src="{{asset('img/D_NQ_NP_838659-MCO49349433904_032022-O.webp')}}" alt="imagen del producto">
+                    <p class="nombreProd"> chaqueta para hombre de cuero  de marca ttt </p>
+                    <p class="precioProd"> $ 10.000 cop</p>
+                </a>
+            </div>
+            <div class="productos">
+                <a class="producto" href="">
+                    <img class="imgProd" src="{{asset('img/D_NQ_NP_838659-MCO49349433904_032022-O.webp')}}" alt="imagen del producto">
+                    <p class="nombreProd"> chaqueta para hombre de cuero  de marca ttt </p>
+                    <p class="precioProd"> $ 10.000 cop</p>
+                </a>
+            </div>
+            <div class="productos">
+                <a class="producto" href="">
+                    <img class="imgProd" src="{{asset('img/D_NQ_NP_838659-MCO49349433904_032022-O.webp')}}" alt="imagen del producto">
+                    <p class="nombreProd"> chaqueta para hombre de cuero  de marca ttt </p>
+                    <p class="precioProd"> $ 10.000 cop</p>
+                </a>
+            </div>
+            <div class="productos">
+                <a class="producto" href="">
+                    <img class="imgProd" src="{{asset('img/D_NQ_NP_838659-MCO49349433904_032022-O.webp')}}" alt="imagen del producto">
+                    <p class="nombreProd"> chaqueta para hombre de cuero  de marca ttt </p>
+                    <p class="precioProd"> $ 10.000 cop</p>
                 </a>
             </div>
             {{-- hasta aqui se borra --}}
