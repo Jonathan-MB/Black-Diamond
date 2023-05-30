@@ -24,3 +24,8 @@ Route::get('/login', function () {
 Route::get('/carrito', function () {
     return view('carrito');
 });
+
+
+Route::get('/cabecera-simple', function () {
+    return view('cabeceraSimple');
+});
