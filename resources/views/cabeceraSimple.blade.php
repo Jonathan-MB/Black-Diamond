@@ -14,12 +14,12 @@
 
         <header class="cabecera simple">
 {{-- logo de la empresa --}}
-            <a  class="logo" href="{{ asset("/") }}">
+            <a  class="logo" href="{{ asset('/') }}">
                 <img src="{{ asset('img/logo.png') }}" alt="Logo de Black Diamond">
             </a>
 
 {{-- logo para celular --}}
-            <a  class="logo2" href="{{ asset("/") }}">
+            <a  class="logo2" href="{{ asset('/') }}">
                 <img src="{{ asset('img/logo2.png') }}" alt="Logo de Black Diamond">
             </a>
 

@@ -1,0 +1,60 @@
+body{
+    background-image: url(../img/fondo.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+h1{
+color:white;
+font-weight: 700;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover {
+    color: white;
+    
+}
+.formulario {
+    border-radius: 25px;
+    border: 1px solid #ffffff07;
+    backdrop-filter:blur(15px);
+    -webkit-backdrop-filter: blur(15px);
+    background-color: rgba(255, 255, 255, 0.164);   
+
+}
+.form-control{
+    background: rgba(255, 252, 250, 0.7);
+    backdrop-filter:blur(15px);
+    transition: 0.5s ease-in;
+    border-radius: 20%;
+    box-shadow: none;
+    border-radius: 1.25rem;
+    color: #000;
+}
+.label1{
+   color: white;
+   text-align: right;
+}
+input {
+    font-weight: 600;
+    background: rgba(255, 252, 250, 0.7);
+    transition: 0.5s ease-in;
+    border-radius: 20%;
+    box-shadow: none;
+    border-radius: 1.25rem;
+    border: 2px solid #B15500;
+  }
+.avatar{
+    width: 100px;
+    height: 100px;
+    display: block;
+    margin: auto;
+    background: rgba(177, 85, 0, 0.64);
+    border-radius: 50%;
+}
+
+
+
