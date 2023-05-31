@@ -2,6 +2,6 @@
 
 @section('contenido')
 <h1>
-    Carrito De Compras!!!!!
+    Carrito De Compras!!!!
 </h1>
 @endsection
