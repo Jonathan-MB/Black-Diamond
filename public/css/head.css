@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@500&display=swap');
+
+#search-form{
+  position: relative;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500; /* Semi bold */
+  
+}
+#search-form input{
+  width: 100%;
+  padding: 0 30px;
+  border-radius: 50px;
+  border: none;
+  position: relative;
+  height: 40px;
+  border-color: #ed7133;
+
+}
+#search-form a{
+  position: absolute;
+  right: 6px;
+  height: 25px;
+  border: none;
+  border-radius: 52px;
+  color: #fff;
+
+}
+#logo img{
+  max-width: 98%;
+  max-height: 98%;
+}
+.nav-link {
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+  font-weight: 500; /* Semi bold */
+}
