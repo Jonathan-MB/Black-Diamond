@@ -27,9 +27,6 @@
                         <li class="nav-item">
                             <a class="nav-link" href="#">ZAPATOS </a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" href="#">MARCA</a>
-                        </li>
                     </ul>
                     <form id="search-form" class="d-flex" role="search">
                         <input class="form-control me-1" type="search" placeholder="Buscar" />
